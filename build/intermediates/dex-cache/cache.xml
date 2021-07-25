@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_5413e02aa3c8d7620c5a01fd2206b835e27b34ce/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="58d85576c5366aaf28da18812e240de79410a036">
+        <dex dex="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ae753054ff61746bba0bd817c5438b3aa20b949d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_7ea55b413a463e04b21b12a02fa52d14b3cadd46/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5c05bca4d7de02992cb81e9107ef8d7fa9b1caeb">
+        <dex dex="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2cdaa511ec02f45afbe7507ea559d7d837102786/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Utkarsh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f248ae9c375da4f00a9fe3773552255ec8a521fa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_1583859c92f2497d0f4006172d1d30a9d58df64c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_69ecf4f664299d69bdc4d72e03bbf66026ec03a3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Utkarsh/Desktop/YouDoTheMath/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_72ee40b7de574b0df74735e7ed77eb6de2bd5d59/classes.dex" />
+    </item>
+
+</items>

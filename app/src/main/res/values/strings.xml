@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Simple Math</string>
+	<string name="menu_settings">Settings</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="help_info">Utkarsh math is a simple math game and multiplication tables app. The game has 3 difficulties: Beginner, intermediate, and pro. Keep getting questions correct and you will see a smiley face. Get one wrong and you will see a frown and your score once gain starts from zero. Your top 10 scores from the game are shown in the Scores section, along with the date and time you achieved the score. \n \nThe tables section offers the user a tables exercise from the numbers 1-10.</string>
+	<string name="practice">Practice operators</string>
+</resources>
